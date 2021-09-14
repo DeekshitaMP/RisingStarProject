@@ -1,5 +1,7 @@
 welcome to git                                                                                                                                                                                                             
                                                                                                                    
-hello world!!!
+Hello world!!!
 
-change to fix bu1
+Change: to fix bu1
+
+change: by teammate
