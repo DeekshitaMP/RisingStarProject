@@ -2,4 +2,6 @@ welcome to git
                                                                                                                    
 hello world!!!
 
-change to fix bu1
+change to fix bu1.
+
+change to fix bug2
