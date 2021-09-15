@@ -1,5 +1,7 @@
 New feature change request
 
-change to code for feature login in-progress
+change to code for feature login in-progress.
 
-change to verify normal push from local master to remote master for wi5
+change to verify normal push from local master to remote master for wi5.
+
+change on remote master by team mate for wi6 to check pull.
