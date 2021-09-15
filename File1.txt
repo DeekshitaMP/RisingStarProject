@@ -2,12 +2,16 @@ welcome to git
                                                                                                                    
 Hello world!!!
 
-Change 1: to fix bu1.
 
-change 2: by teammate for wi2 on master.
+Change 1:- to fix bu1.
 
-change 3: to fix bug2.
+change 2:- by teammate for wi2 on master.
 
-change 4: by teammate for wi3 to check rebase.
+change 3:- to fix bug2.
 
-change 5: for CR@ on remote master by teammate, with confilt.
+change 4:- by teammate for wi3 to check rebase.
+
+change 5:- for CR2 on remote master by teammate, with confilt.
+
+change 6:- for bug3 on local master to verify rebase.
+
